@@ -1,8 +1,9 @@
 *~
 #*#
 ._*
-*.gz
 *.fasta
 *.fastq
 *.bt2
 *.sam
+example.txt
+data.txt
