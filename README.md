@@ -12,3 +12,10 @@ a. Parallelization of unrelated targets
 b. Explicit list of all analysis steps
 c. Ability to update analysis when files have changed
 d. Make manages software dependencies
+
+What does a make file contain? (select all that apply)
+a. rules
+b. data
+c. recipes
+d. dependencies
+e. targets
